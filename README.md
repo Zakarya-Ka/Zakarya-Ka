@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Zack 👋
+I work with Python and NLP, with a focus on corpus linguistics and named entity recognition.
+
+## Projects
+(coming soon)
 
 <!--
 **Zakarya-Ka/Zakarya-Ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
